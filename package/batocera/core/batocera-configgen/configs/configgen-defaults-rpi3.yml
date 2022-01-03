@@ -1,0 +1,11 @@
+n64:
+  options:
+    videomode: DMT 4 HDMI
+n64dd:
+  options:
+    videomode: DMT 4 HDMI
+psp:
+  options:
+    frameskip: 1
+    videomode: DMT 4 HDMI
+    
